@@ -1,0 +1,15 @@
+E:\Users\X\Desktop\Hw4\N\obj\Debug\net6.0\N.csproj.AssemblyReference.cache
+E:\Users\X\Desktop\Hw4\N\obj\Debug\net6.0\N.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\X\Desktop\Hw4\N\obj\Debug\net6.0\N.AssemblyInfoInputs.cache
+E:\Users\X\Desktop\Hw4\N\obj\Debug\net6.0\N.AssemblyInfo.cs
+E:\Users\X\Desktop\Hw4\N\obj\Debug\net6.0\N.csproj.CoreCompileInputs.cache
+E:\Users\X\Desktop\Hw4\N\bin\Debug\net6.0\N.exe
+E:\Users\X\Desktop\Hw4\N\bin\Debug\net6.0\N.deps.json
+E:\Users\X\Desktop\Hw4\N\bin\Debug\net6.0\N.runtimeconfig.json
+E:\Users\X\Desktop\Hw4\N\bin\Debug\net6.0\N.dll
+E:\Users\X\Desktop\Hw4\N\bin\Debug\net6.0\N.pdb
+E:\Users\X\Desktop\Hw4\N\obj\Debug\net6.0\N.dll
+E:\Users\X\Desktop\Hw4\N\obj\Debug\net6.0\refint\N.dll
+E:\Users\X\Desktop\Hw4\N\obj\Debug\net6.0\N.pdb
+E:\Users\X\Desktop\Hw4\N\obj\Debug\net6.0\N.genruntimeconfig.cache
+E:\Users\X\Desktop\Hw4\N\obj\Debug\net6.0\ref\N.dll
