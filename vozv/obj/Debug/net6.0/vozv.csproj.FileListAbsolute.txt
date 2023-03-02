@@ -1,0 +1,15 @@
+E:\Users\X\Desktop\Hw4\vozv\bin\Debug\net6.0\vozv.exe
+E:\Users\X\Desktop\Hw4\vozv\bin\Debug\net6.0\vozv.deps.json
+E:\Users\X\Desktop\Hw4\vozv\bin\Debug\net6.0\vozv.runtimeconfig.json
+E:\Users\X\Desktop\Hw4\vozv\bin\Debug\net6.0\vozv.dll
+E:\Users\X\Desktop\Hw4\vozv\bin\Debug\net6.0\vozv.pdb
+E:\Users\X\Desktop\Hw4\vozv\obj\Debug\net6.0\vozv.csproj.AssemblyReference.cache
+E:\Users\X\Desktop\Hw4\vozv\obj\Debug\net6.0\vozv.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\X\Desktop\Hw4\vozv\obj\Debug\net6.0\vozv.AssemblyInfoInputs.cache
+E:\Users\X\Desktop\Hw4\vozv\obj\Debug\net6.0\vozv.AssemblyInfo.cs
+E:\Users\X\Desktop\Hw4\vozv\obj\Debug\net6.0\vozv.csproj.CoreCompileInputs.cache
+E:\Users\X\Desktop\Hw4\vozv\obj\Debug\net6.0\vozv.dll
+E:\Users\X\Desktop\Hw4\vozv\obj\Debug\net6.0\refint\vozv.dll
+E:\Users\X\Desktop\Hw4\vozv\obj\Debug\net6.0\vozv.pdb
+E:\Users\X\Desktop\Hw4\vozv\obj\Debug\net6.0\vozv.genruntimeconfig.cache
+E:\Users\X\Desktop\Hw4\vozv\obj\Debug\net6.0\ref\vozv.dll
